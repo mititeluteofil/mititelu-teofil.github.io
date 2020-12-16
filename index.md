@@ -1,19 +1,8 @@
-## Welcome to GitHub Pages
+### Welcome to my Github presentation page 
 
-You can use the [editor on GitHub](https://github.com/mititeluteofil/mititelu-teofil.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Follow this link: [CV-Mititelu](https://github.com/mititeluteofil/mititelu-teofil.github.io/edit/gh-pages/index.md) to check my personal Curriculum Vitae / Resume.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# This page is mostly created to present my self and my abilities and to present my personal work portfolio.
 
 - Bulleted
 - List
