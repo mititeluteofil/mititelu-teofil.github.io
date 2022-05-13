@@ -1,8 +1,9 @@
-### Welcome to my Github presentation page 
+### Mititelu Teofil
 
-Follow this link: [CV-Mititelu](https://github.com/mititeluteofil/mititelu-teofil.github.io/edit/gh-pages/index.md) to check my personal Curriculum Vitae / Resume.
 
-# This page is mostly created to present my self and my abilities and to present my personal work portfolio.
+# Glad to have you here!
+
+Since you're here, I guess you want to know more about me. So let\s jump right into it, shall we?
 
 - Bulleted
 - List
@@ -10,9 +11,13 @@ Follow this link: [CV-Mititelu](https://github.com/mititeluteofil/mititelu-teofi
 1. Numbered
 2. List
 
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+Follow this link for a printable version of the Resume: [CV-Mititelu](https://github.com/mititeluteofil/mititelu-teofil.github.io/edit/gh-pages/index.md).
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
